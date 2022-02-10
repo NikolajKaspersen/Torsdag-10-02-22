@@ -1,3 +1,3 @@
-# Torsdag-10-02-22
+# Torsdag opgaver
 Nikolaj Juul Kaspersen
 cph-nk216@cphbusiness.dk
