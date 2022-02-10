@@ -21,20 +21,3 @@ void MethodOne()
   
    
 }
-void MethodTwo() 
-{
-  int weekDay = 0; // 0 = Monday, 6 = Sunday. 
-  boolean weekend = false;
-  
-  if (weekDay < 5)
-  {
-    weekend = false;
-  }
-  else 
-  {
-    weekend = true;
-  }
-  if (weekday == 0)
-  {println ("monday");
-  }
-}
